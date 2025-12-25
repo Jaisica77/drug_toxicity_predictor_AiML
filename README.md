@@ -32,6 +32,10 @@ This repository implements a proof-of-concept using RDKit descriptors combined w
 The dataset used in this project consists of **chemical compounds represented using SMILES notation**, along with corresponding **toxicity labels or scores**.  
 It is derived from **publicly available toxicology datasets commonly used in computational drug discovery**, such as **Tox21**, and is suitable for **machine learning–based toxicity prediction**.
 
+The project uses the **Tox21 Dataset** sourced from Kaggle for toxicity prediction.  
+Dataset link: https://www.kaggle.com/datasets/epicskills/tox21-dataset
+
+
 Each compound is processed using **RDKit** to compute molecular descriptors and physicochemical properties, which serve as input features for the AI/ML models used in this project.
 
 ---
