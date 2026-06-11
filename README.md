@@ -1,5 +1,6 @@
 # 🧪 Drug Toxicity Predictor (AiML)
 
+🔗 Live Demo: https://toxicity-app-c907.onrender.com
 A machine learning–based system to **predict drug toxicity** using molecular descriptors and RDKit features.  
 This tool helps evaluate potential toxicity *before market release*; if predicted toxicity score is above threshold (e.g., 50%), the drug candidate is flagged as non-viable.
 
